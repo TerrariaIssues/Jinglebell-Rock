@@ -1,0 +1,4 @@
+with for loops you have to do less work, and what
+the actual block of code is doing is more clear 
+as well. Although you can use either, the for loops 
+do the job better.
