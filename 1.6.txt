@@ -1,0 +1,4 @@
+I believe this program is in act legal. The reason 
+or this is since it is all being printed on 
+the same line, there is no need to flush 
+the line until the end, which is in fact done.

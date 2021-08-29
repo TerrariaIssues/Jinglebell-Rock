@@ -1,0 +1,2 @@
+my answer is that the first two ouput statements 
+are legal and the last 2 are definitely not legal.

@@ -1,0 +1,6 @@
+If the input values are all equal, then the program
+will just print how many times that number was
+entered into the input stream.
+if there are no duplicated values int cnt will
+stay at its initialized value and be printed
+for each individual program at the end of file.
